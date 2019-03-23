@@ -16,6 +16,7 @@ Files with the following character sequences contained in their Names them will 
 
 Any ASCII character greater than or equal to 128 and
 “\\”
+
 “{“
 “^”
 “}”
