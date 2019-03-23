@@ -24,7 +24,7 @@ Any ASCII character greater than or equal to 128 and the following characters sh
 
 
 
-# How to configure AWS Command Line with your account credentials
+# How to configure AWS Command Line Interface with your account credentials
 
 1 ) To allow program to upload to your AWS account you need to install AWS CLI
 
