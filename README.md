@@ -7,7 +7,7 @@ Backs up the files in the current directory to Amazon S3 storage.
 
 3) From terminal or command line in that folder run the following command:
 
-	java -jar backup.jar
+		java -jar backup.jar
 
 
 
@@ -15,7 +15,7 @@ Files with the following character sequences contained in their Names them will 
 
 Any ASCII character greater than or equal to 128 and the following characters should not exit in file names
 
-	“\\”, “{“, “^”, “}”, “%”, “\””, “>”, “<”, “]”, “[“, “~”, “#”, “&”, “@”, “:”, “=”, “;”, “+”, “,”, “?”
+	“\\”, “{“, “^”, “}”, “%”, “\”, “>”, “<”, “]”, “[“, “~”, “#”, “&”, “@”, “:”, “=”, “;”, “+”, “,”, “?”
 
 
 
