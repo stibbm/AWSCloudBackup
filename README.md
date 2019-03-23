@@ -11,7 +11,6 @@ Backs up the files in the current directory to Amazon S3 storage.
 
 
 
-
 Files with the following character sequences contained in their Names them will not  be uploaded when backup.jar is run. ( “>” means that > is an illegal character sequence)
 
 Any ASCII character greater than or equal to 128 and the following characters should not exit in file names
