@@ -1,6 +1,9 @@
 # AWS Cloud Backup Utility
 Backs up the files in the current directory to Amazon S3 storage.
 
+Link to download the utility "backup.jar"
+	https://www.dropbox.com/s/hdgvxpooxq22n1i/backup.jar?dl=0
+
 1) First Configure your AWS credentials following the instructions in “How_To_Enter_AWS_Account_Keys”
 
 2) Then move the “backup.jar” into the directory that you would like to backup to AWS.
