@@ -47,7 +47,7 @@ Any ASCII character greater than or equal to 128 and the following characters sh
 
 	aws configure
 	
-	You will then enter your Access Key and Secret Key when prompted. Then hit enter twice to skip the next two prompts for which you do not need to enter any information.
+	You will then enter your Access Key and Secret Key when prompted. Then hit enter twice.
 
 
 
