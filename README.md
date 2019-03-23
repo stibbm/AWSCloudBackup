@@ -6,7 +6,7 @@ Backs up the files in the current directory to Amazon S3 storage.
 2) Then move the “backup.jar” into the directory that you would like to backup to AWS.
 
 3) From terminal or command line in that folder run the following command:
-	
+
 	java -jar backup.jar
 
 
